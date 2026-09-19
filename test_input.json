@@ -1,0 +1,7 @@
+{
+  "input": {
+    "cbct_url": "https://TU-SERVIDOR/ruta/publica/cbct.zip",
+    "name": "prueba",
+    "use_mirroring": true
+  }
+}

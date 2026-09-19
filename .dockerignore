@@ -1,0 +1,6 @@
+.git
+__pycache__
+*.pyc
+test_local.py
+test_input.json
+README.md
